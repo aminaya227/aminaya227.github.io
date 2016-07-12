@@ -1,4 +1,4 @@
-aminaya227.github.io
+anaminaya.github.io
 ====================
 
 a profile page
